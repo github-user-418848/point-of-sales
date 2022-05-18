@@ -1,0 +1,28 @@
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\obj\Debug\point-of-sales-v3.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.CtrlProdA.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.CtrlProdB.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\obj\Debug\point-of-sales-v3.csproj.GenerateResource.Cache
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\bin\Debug\point-of-sales-v3.exe.config
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\bin\Debug\point-of-sales-v3.exe
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\bin\Debug\point-of-sales-v3.pdb
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\obj\Debug\point-of-sales-v3.exe
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\obj\Debug\point-of-sales-v3.pdb
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.MainForm.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.CtrlAdmin.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.CtrlLogin.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.CtrlSalesReprt.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\System Analysis and Design\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.CtrlProdReprt.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\obj\Debug\point-of-sales-v3.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.CtrlAdmin.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.CtrlLogin.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.CtrlProdA.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.CtrlProdB.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.CtrlProdReprt.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.CtrlSalesReprt.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\obj\Debug\point_of_sales_v3.MainForm.resources
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\obj\Debug\point-of-sales-v3.csproj.GenerateResource.Cache
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\obj\Debug\point-of-sales-v3.exe
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\bin\Debug\point-of-sales-v3.exe.config
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\bin\Debug\point-of-sales-v3.exe
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\bin\Debug\point-of-sales-v3.pdb
+C:\Users\Personal\Documents\SharpDevelop Projects\Thesis 1\point-of-sales-v3\point-of-sales-v3\obj\Debug\point-of-sales-v3.pdb
